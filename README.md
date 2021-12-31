@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me
 
-- Visit my [Website](https://tobidsn.github.io) 🌐
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/tobidsn/) 👤
+- Visit my [Website](https://mtob.xyz) 🌐
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/tobidsn) 👤
 - Write me an [Email](mailto:tobidsn@gmail.com) ✉️
 - Visit my [Blog](https://medium.com/@tobidsn) 🗒
