@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Tobi, an enthusiastic Software Developer from Tegal - Indonesia.
+I am Tobi, an enthusiastic Software Developer Indonesia.
 
-I mostly work with Laravel, Nodejs, Vue and Nuxt.
+I've been coding in Laravel, Codeigniter, PHP, Vue, NuxtJs, Node.js, Express, MongoDB, MySQL & Redis
 
 ![Bostrot's github stats](https://github-readme-stats.vercel.app/api?username=tobidsn&count_private=true)
 
