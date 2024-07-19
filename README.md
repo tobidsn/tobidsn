@@ -2,7 +2,7 @@
 
 I am Tobi, an enthusiastic Software Developer Indonesia.
 
-I've been coding in Laravel, Codeigniter, PHP, Vue, NuxtJs, Node.js, Express, MongoDB, MySQL & Redis
+I've been coding in Laravel, PHP, Vue, NuxtJs, Node.js, Express, MongoDB, MySQL & Redis
 
 ![Bostrot's github stats](https://github-readme-stats.vercel.app/api?username=tobidsn&count_private=true)
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p float="left">
   <a><img src="https://laravel.com/img/logomark.min.svg" height="70"></img></a>
-  <a><img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" height="70"></img></a>
+  <a><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="70"></img></a>
   <a><img src="https://duckduckgo.com/i/39ece087.png" height="70"></img></a>
 </p>
 
