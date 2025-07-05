@@ -1,39 +1,19 @@
 ### Hi there 👋
 
-I am Tobi, an enthusiastic Software Developer Indonesia.
+I am Tobi, an enthusiastic Software Developer from Indonesia.
 
-I've been coding in Laravel, PHP, Vue, NuxtJs, Node.js, Express, MongoDB, MySQL & Redis
-
-![Bostrot's github stats](https://github-readme-stats.vercel.app/api?username=tobidsn&count_private=true)
+I've been coding in **Laravel**, **PHP**, **Vue**, **Nuxt.js**, **React**, **Node.js**, **Express**, **MongoDB**, **MySQL**, and **Redis**.
 
 <!--
 **tobidsn/tobidsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on [Antikode.com](https://antikode.com)
+- 🌱 I’m currently learning Golang & System Design
+- 🧪 I built [APILESS.com](https://apiless.com) — Instant mock APIs for frontend/backend projects
+- 💻 I maintain [ACF UI](https://acfui.com), an open source unstyled UI component library
+- 💬 Ask me about Laravel, Vue, NodeJs or building SaaS platforms
+- 📫 How to reach me: [acfui.com](https://acfui.com), [LinkedIn](https://www.linkedin.com/in/tobidsn), [Email](mailto:tobidsn@gmail.com)
+- 📝 I write on [Medium](https://medium.com/@tobidsn)
 -->
-### 📖 Knowledge
-
-<!--![node](https://img.shields.io/badge/node-%3E%3D%206.0.0-brightgreen)-->
-
-<p float="left">
-  <a><img src="https://laravel.com/img/logomark.min.svg" height="70"></img></a>
-  <a><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="70"></img></a>
-  <a><img src="https://duckduckgo.com/i/39ece087.png" height="70"></img></a>
-</p>
-
-
-### 📫 How to reach me
-
-- Visit my [Website](https://mtob.xyz) 🌐
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/tobidsn) 👤
-- Write me an [Email](mailto:tobidsn@gmail.com) ✉️
-- Visit my [Blog](https://medium.com/@tobidsn) 🗒
