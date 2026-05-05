@@ -1,18 +1,17 @@
 ### Hi there 👋
 
-I am Tobi, an enthusiastic Software Developer from Indonesia.
+I'm Tobi, a Backend Lead from Indonesia building products at the intersection of web platforms, gamification, and AI agents.
 
-I've been coding in **Laravel**, **PHP**, **Vue**, **Nuxt.js**, **React**, **Node.js**, **Express**, **MongoDB**, **MySQL**, and **Redis**.
+These days I work mostly in **Node.js**, **PayloadCMS**, and **Go** — shipping backends, content platforms, and agentic systems on top of **PostgreSQL**, **MySQL**, **MongoDB**, and **Redis**. I've spent years in **Laravel**, **Vue**, **Nuxt**, **React**, and **Express**, and still reach for them when they're the right tool.
 
 <!--
 **tobidsn/tobidsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [Antikode.com](https://antikode.com)
-- 🌱 I’m currently learning Node & System Design
-- 💻 I maintain [ACF UI](https://acfui.com), an open source unstyled UI component library
-- 💬 Ask me about Laravel, Vue, NodeJs or building SaaS platforms
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tobidsn), [Email](mailto:tobidsn@gmail.com)
-- 📝 I write on [Medium](https://medium.com/@tobidsn)
+- 🔭 Backend Lead at [Antikode.com](https://antikode.com)
+- 🛠️ Maintaining our internal core CMS (Laravel) and Loyalty Platform
+- 🌱 Going deep on AI agents, agentic workflows, and gamification systems
+- 💻 Maintaining [ACF UI](https://acfui.com), an open source unstyled UI component library
+- 💬 Ask me about Node.js, PayloadCMS, Go, Laravel, gamification, or shipping SaaS
+- ✍️ I write at [heytob.com](https://www.heytob.com) and on [Medium](https://medium.com/@tobidsn)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tobidsn) or [Email](mailto:tobidsn@gmail.com)
